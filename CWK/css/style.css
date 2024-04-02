@@ -230,7 +230,7 @@ body {
   width: 350px;
 }
 #basket, #orders {
-  max-height: 350px;
+  max-height: 313px;
   overflow-y: auto;
 }
 #order_box {
